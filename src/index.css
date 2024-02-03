@@ -1,0 +1,19 @@
+
+body {
+    font-family: monospace;;
+    background-image: url('https://wallpapers.com/images/featured/ultra-hd-wazf67lzyh5q7k32.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+.clock {
+    color: #fff;
+    font-size: 6rem;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.95);
+    margin-top: 60px;
+}
